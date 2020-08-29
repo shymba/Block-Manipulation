@@ -72,9 +72,9 @@ h3{
 	position: relative;
 }
 #block{
-	width: 150px;
-	height: 150px;
-	background-color: #ff0000; 
+	width: 300px;
+	height: 100px;
+	background-color: #00ff0d; 
 	position: absolute;
 	left: 0;
 	top: 0;
