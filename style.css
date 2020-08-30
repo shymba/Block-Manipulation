@@ -1,12 +1,12 @@
 .block{
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 	background: linear-gradient(to top, #333 0%, #666 30%, #333 100%);
 	box-shadow: inset 2px 2px 5px 2px #333;
 	border-radius: 10px;
 	display: inline-block;
 	vertical-align: top;
-	color: #d42020;
+	color: #fff;
 }
 h3{
 	font-family: Arial;
@@ -46,8 +46,8 @@ h3{
 .center{
 	height: 70px;
 	display: flex;
-	justify-content: left;
-	align-items: left;
+	justify-content: center;
+	align-items: center;
 	flex-direction: column;
 }
 #ok-shape {
@@ -72,9 +72,9 @@ h3{
 	position: relative;
 }
 #block{
-	width: 300px;
-	height: 100px;
-	background-color: #00ff0d; 
+	width: 150px;
+	height: 150px;
+	background-color: #ff0000; 
 	position: absolute;
 	left: 0;
 	top: 0;
